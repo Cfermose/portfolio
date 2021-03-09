@@ -102,8 +102,15 @@ color: #FFFFFF;
     left: 680px;
     top: 875px;
     
-
-    
-
 }
 
+.whitevector {
+position: absolute;
+width: 1557px;
+height: 2642px;
+left: -51px;
+top: 1011px;
+
+background: #FFFFFF;
+border: 1px solid rgba(38, 42, 48, 0.22);
+}
